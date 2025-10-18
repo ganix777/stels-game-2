@@ -1,2 +1,2 @@
-# stels-game-2
+# stels-game-ее загрузить
 игра моя
